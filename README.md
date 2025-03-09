@@ -12,3 +12,11 @@ This is a simple CRUD (Create, Read, Update, Delete) system built using PHP Obje
 - CRUD functionality (Create, Read, Update, Delete)
 - Clean and reusable code
 
+**Project Structure:**
+php-crud-mvc/
+├── config/
+│   ├──dbConnection.php
+├── core/
+│   ├──model.php
+│   ├──controller.php
+├── index.php
