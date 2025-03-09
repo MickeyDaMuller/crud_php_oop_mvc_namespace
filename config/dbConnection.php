@@ -9,9 +9,9 @@ class Database { // Defines a class named 'Database' that handles database conne
 
     // Constants to store database connection details
     const DBHOST = 'localhost'; // Database host (usually 'localhost' for local servers)
-    const DBNAME = 'mikeandc_notepad_reader_db'; // Database name
-    const DBUSERNAME = 'mikeandc_notepad_reader_user'; // Database username
-    const DBPASSWORD = 'mikeandc_notepad_reader_pwd'; // Database password
+    const DBNAME = ''; // Database name
+    const DBUSERNAME = ''; // Database username
+    const DBPASSWORD = ''; // Database password
 
     // Private method to establish a database connection
     private function dbConnection() {
